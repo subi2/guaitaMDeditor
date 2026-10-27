@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="refresh" content="0; url=./en/">
+<title>guaita.MDeditor 2.0</title>
+<link rel="canonical" href="./en/">
+<style>
+:root{--bg:#090b08;--ink:#e2e7d8;--acc:#b6ff2e}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,sans-serif;display:grid;place-items:center;min-height:100vh;padding:16px;box-sizing:border-box}
+.box{text-align:center}
+a{color:var(--acc)}
+</style>
+</head>
+<body>
+<div class="box">
+  <p>guaita.MDeditor 2.0</p>
+  <p><a href="./en/">English</a> · <a href="./ca/">Català</a></p>
+</div>
+<script>
+// Choose language from browser preference; the meta refresh is the fallback.
+(function () {
+  var lang = (navigator.language || 'en').toLowerCase();
+  location.replace((lang.indexOf('ca') === 0 ? './ca/' : './en/'));
+})();
+</script>
+</body>
+</html>
