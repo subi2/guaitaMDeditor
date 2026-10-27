@@ -3,9 +3,9 @@
 A Word-style Markdown editor in a single HTML file. Part of the **Guaita Apps** suite.
 
 **Live page:** https://subi2.github.io/guaitaMDeditor/
-**Download:** [`guaitaMDeditor_v2.0.html`](guaitaMDeditor_v2.0.html) — no installation, works offline.
+**Download:** [`guaitaMDeditor_v2.1_en.html`](guaitaMDeditor_v2.1_en.html) (English) · [`guaitaMDeditor_v2.1.html`](guaitaMDeditor_v2.1.html) (Català) — no installation, works offline.
 
-> The application interface is currently in Catalan only. This README and the project pages are available in English and Catalan.
+> The application interface is available in English and Catalan. This README and the project pages are available in English and Catalan.
 
 ## Features
 
@@ -29,7 +29,7 @@ A modern browser (Chrome, Edge, Firefox or Safari). File System Access (open and
 
 ## Usage
 
-Open `guaitaMDeditor_v2.0.html` in your browser. Everything is included in the file: no server, no CDN, no network connection needed.
+Open `guaitaMDeditor_v2.1_en.html` (English) or `guaitaMDeditor_v2.1.html` (Català) in your browser. Everything is included in the file: no server, no CDN, no network connection needed.
 
 ## Development
 
@@ -52,7 +52,7 @@ Licensed under the **GNU Affero General Public License v3.0 only** (`AGPL-3.0-on
 Editor de text Markdown estil Word en un únic fitxer HTML. Part de la suite **Guaita Apps**.
 
 **Pàgina:** https://subi2.github.io/guaitaMDeditor/
-**Descàrrega:** [`guaitaMDeditor_v2.0.html`](guaitaMDeditor_v2.0.html) — sense instal·lació, funciona sense connexió.
+**Descàrrega:** [`guaitaMDeditor_v2.1.html`](guaitaMDeditor_v2.1.html) (Català) · [`guaitaMDeditor_v2.1_en.html`](guaitaMDeditor_v2.1_en.html) (English) — sense instal·lació, funciona sense connexió.
 
 ## Funcions
 
@@ -76,7 +76,7 @@ Un navegador modern (Chrome, Edge, Firefox o Safari). L'API d'accés al sistema 
 
 ## Ús
 
-Obriu `guaitaMDeditor_v2.0.html` al navegador. Tot és dins del fitxer: no cal servidor, CDN ni connexió.
+Obriu `guaitaMDeditor_v2.1.html` (Català) o `guaitaMDeditor_v2.1_en.html` (English) al navegador. Tot és dins del fitxer: no cal servidor, CDN ni connexió.
 
 ## Desenvolupament
 

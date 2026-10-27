@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.1 — 2026
+
+- Interface translated to English: new file `guaitaMDeditor_v2.1_en.html`. The Catalan file is `guaitaMDeditor_v2.1.html`.
+- Same functionality as 2.0 in both languages.
+- LaTeX export uses `babel` with the interface language.
+
 ## 2.0 — 2026
 
 - Word-style ribbon and drop-down menus (File, Edit, View, Insert, Format, Paragraph, Table, Tools, Help).

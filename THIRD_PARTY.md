@@ -1,6 +1,6 @@
 # Third-party software
 
-guaita.MDeditor embeds the following libraries inside `guaitaMDeditor_v2.0.html`. Their licences are included below as required.
+guaita.MDeditor embeds the following libraries inside `guaitaMDeditor_v2.1.html`. Their licences are included below as required.
 
 | Component | Version | Licence | Copyright |
 |---|---|---|---|
